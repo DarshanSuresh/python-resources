@@ -76,4 +76,4 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none
 
-## Designed with 🤍 By Darshan Suresh
+###### Designed with 🤍 By Darshan Suresh
